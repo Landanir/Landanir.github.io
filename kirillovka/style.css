@@ -104,7 +104,10 @@ header .container-fluid
 \*------------------------------------*/
 
 
-
+.first .container-fluid
+{
+	background-color: rgba(68,156,228,1.00);
+}
 
 .number .container-fluid
 {
@@ -162,7 +165,7 @@ header .container-fluid
 
 .prefooter .container-fluid
 {
-    background-color:rgba(68,156,228,1.00)
+    background-color:rgba(68,156,228,1.00);
     
 }
 
